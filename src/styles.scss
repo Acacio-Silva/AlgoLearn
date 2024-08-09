@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+$color-primary: #1381c0;
+$color-secondary: #f5b12c;
+$color-tertiary: #d33228;
+$color-white: #fff;
+$color-black: #000;
+$color-gray: #3D3C3C;
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
